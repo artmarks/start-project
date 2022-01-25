@@ -4,7 +4,7 @@ This project uses [Next.js](https://nextjs.org/) as simple and performant backen
 [React](https://reactjs.org/) is being used as Frontend framework with [Tailwind css](https://tailwindcss.com/) for creating fast and clean user interfaces.  
 For automated tests [Cypress](https://docs.cypress.io) is used as end-to-end test framework.  
 
-## Getting Started
+## Create the structure on your own
 
 * Install Node JS 
     * Install [Next.js](https://nextjs.org/docs/getting-started) 
@@ -23,7 +23,9 @@ For automated tests [Cypress](https://docs.cypress.io) is used as end-to-end tes
     * Run <code>npx cypress run</code> in your continuos integration script 
 
 
-## Create your specific project
+## Getting started
+
+Just use <code>npm install</code> and you are ready to go :)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see your current page.
 
